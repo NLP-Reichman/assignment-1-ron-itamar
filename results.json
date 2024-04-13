@@ -1,34 +1,34 @@
 {
   "test_preprocess": {
-    "vocab_length": 1803
+    "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 724,
-    "english_3_gram_length": 8034,
-    "french_3_gram_length": 8096,
-    "spanish_3_gram_length": 8145
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "english_on_english": 26.06,
-    "english_on_french": 57.19,
-    "english_on_spanish": 56.39
+    "english_on_english": 9.37,
+    "english_on_french": 27.97,
+    "english_on_spanish": 26.84
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_1": 37.10034014565971,
-    "tl_tl_1": 39.10788441400701,
-    "tl_nl_4": 313.6874885388335
+    "en_en_1": 42.72959602394402,
+    "tl_tl_1": 56.494125830951184,
+    "tl_nl_4": 358.5579086279852
   },
   "test_generate": {
-    "english_2_gram": "mauc\u00f2\u00d1\u262e\ud83d\udc0d\ubd09\ud83c\udfac\ud83d\udc82\u0e2d\ud6c8\u6708\u032e\ud83d\udc76\u25ba\u3163\ud83d\udc61\u26a0\ud0b9",
-    "english_3_gram": "ama\ud83c\udf7b\ud83c\udf5f\ud83d\udc21\ucd08\ucf64\u269d\u2735\uff40\ud83d\udd1e\uadf8\u256c\u5141\ud83e\udd43\ud83c\udf3b\ud83d\udc94\ud83e\udd18\u0325\u1d58\ud83d\udc57",
-    "english_4_gram": "over\ud83d\udc3a\u274c\ud83c\udf8b\u3011\u0622\u014d\ud83d\udc61\ud83c\udf45\ud83e\udd21\ud83d\ude42\ub4f1\u3044\ud83d\udcaa\uc824\u30af\uff5c\uff35\ub791\u5236",
-    "spanish_2_gram": "y tatjorea @po tadenf",
-    "spanish_3_gram": "oy,\ud83d\udcfd\u2611\ud83d\udc22\u30ef\ud83d\udccf\u2664\ub989\u77ac\ud83d\ude09\ud83d\udc4d\u22c5\u0308\ud83d\udd1e\ud83c\udf2c\uadf8\uc5d8\u308f\ud83d\udd6f\u00e8",
-    "french_2_gram": "s s viounce poN\ud83c\udf4f\u25d5\uac78\ud83d\udc37\uff4c\u2506",
-    "french_3_gram": "is \u00e0 \ud83d\udca4\uff5a\ub108\u2754\u5f71\ud83c\udf64\ud83d\ude06\ud83c\udde9\u2604\u7a7a\ud83c\udf7b\ud83c\udf5d\u2018\u0e32\u00a7\ud83d\udc69\u3002"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.\ue001our",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe\ue001rabra ter le!!",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune\ue001rts co/LUrCRIL"
   }
 }
