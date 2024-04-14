@@ -9,20 +9,18 @@
     "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "english_on_english": 9.37,
-    "english_on_french": 27.97,
-    "english_on_spanish": 26.84
+    "en_en": 31.622009327855615,
+    "en_fr": 66.84905600883673,
+    "en_tl": 90.2800557787256,
+    "en_nl": 77.50556072223917
   },
   "test_match": {
-    "df_shape": [
-      256,
-      4
-    ],
-    "en_en_1": 42.72959602394402,
-    "tl_tl_1": 56.494125830951184,
-    "tl_nl_4": 358.5579086279852
+    "en_en_3": 31.622009327855615,
+    "en_tl_3": 90.2800557787256,
+    "en_nl_3": 77.50556072223917
   },
   "test_generate": {
+    "english_1_gram": "IpLCeh otlI   .l.GaLW",
     "english_2_gram": "I amoulpeginShmee bie ae",
     "english_3_gram": "I amit: Lynmkm ways.\ue001our",
     "english_4_gram": "I Love gifts @OndMade a no",
