@@ -9,24 +9,24 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 31.622009327855615,
-    "en_fr": 66.84905600883673,
-    "en_tl": 90.2800557787256,
-    "en_nl": 77.50556072223917
+    "en_en": 31.967690915394076,
+    "en_fr": 65.67419108710514,
+    "en_tl": 89.44378913490506,
+    "en_nl": 76.6064046418905
   },
   "test_match": {
-    "en_en_3": 31.622009327855615,
-    "en_tl_3": 90.2800557787256,
-    "en_nl_3": 77.50556072223917
+    "en_en_3": 31.967690915394076,
+    "en_tl_3": 89.44378913490506,
+    "en_nl_3": 76.6064046418905
   },
   "test_generate": {
     "english_1_gram": "IpLCeh otlI   .l.GaLW",
     "english_2_gram": "I amoulpeginShmee bie ae",
-    "english_3_gram": "I amit: Lynmkm ways.\ue001our",
+    "english_3_gram": "I amit: Lynmkm ways.\ue001",
     "english_4_gram": "I Love gifts @OndMade a no",
     "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
-    "spanish_3_gram": "Soy orbe\ue001rabra ter le!!",
+    "spanish_3_gram": "Soy orbe\ue001",
     "french_2_gram": "Je suis:/opapropades tprisl",
-    "french_3_gram": "Je suis tune\ue001rts co/LUrCRIL"
+    "french_3_gram": "Je suis tune\ue001"
   }
 }
